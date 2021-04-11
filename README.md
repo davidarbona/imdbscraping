@@ -9,12 +9,20 @@ En ella se ha realizado scraping sobre la pagina web IMDB (https://www.imdb.com)
 
 # FICHEROS DEL REPOSITORIO
 
+ * csv/dataset.csv: fichero csv con todos los datos obtenidos de las películas a través de scraping
+ 
+ * posters/: conjunto de imagenes obtenidas por scraping correspondientes a los posteres de las películas
+ 
+ * pdf/practica1.pdf: 
+ 
  * src/main.py: fichero python principal de ejecución del proceso de scrapinig.
  * src/IMDBScraper.py: implementación de la clase IMDBScraper con los atributos y métodos para poder realizar el scraping a la web de IMDB
 
-# RECURSOS UTILIZADOS
+# NOTAS ADICIONALES
 
 pip3 install python-whois
 pip install builtwith
 pip3 install requests
 pip3 install beautifulsoup4
+
+# RECURSOS UTILIZADOS
