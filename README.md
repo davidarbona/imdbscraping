@@ -27,7 +27,7 @@ En ella se ha realizado scraping sobre la pagina web IMDB (https://www.imdb.com)
 
 ## NOTAS ADICIONALES
 
-Para la ejecución del código es necesario tener instaladas las siguientes librerías:
+- Para la ejecución del código es necesario tener instaladas las siguientes librerías:
 
 ```python
 pip3 install python-whois
@@ -35,8 +35,29 @@ pip install builtwith
 pip3 install requests
 pip3 install beautifulsoup4
 ```
+- Mediante el siguiente comando podemos ejecutar el código:
+
+```python
+python foodPriceScraper.py 
+```
+
+- Una vez ejecutado se generará el fichero dataset.csv con los datos obtenidos en el directorio csv, así como todas las imagenes en el directorio posters.
+
+- El dataset obtenido con la ejecución del código fuente referenciado anteriormente se puede encontrar en el DOI siguiente: 
+
+https://doi.org/10.5281/zenodo.4671026
+
 
 ## RECURSOS UTILIZADOS
+
+- Subirats, L., Calvo, M. (2019). Web Scraping. Editorial UOC.
+- Masip, D. (2010). El lenguaje Python. Editorial UOC.
+- Github Guides: Mastering Markdown. https://guides.github.com/features/mastering-markdown/ (2014)
+- Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
+- 
+
+
+
 
 
 
