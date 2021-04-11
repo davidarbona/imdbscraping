@@ -54,7 +54,7 @@ https://doi.org/10.5281/zenodo.4671026
 - Masip, D. (2010). El lenguaje Python. Editorial UOC.
 - Github Guides: Mastering Markdown. https://guides.github.com/features/mastering-markdown/ (2014)
 - Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
-- 
+
 
 
 
